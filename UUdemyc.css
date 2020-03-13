@@ -1,0 +1,46 @@
+.container
+{
+    
+    background-color: aqua;
+    border : orange solid 1px;
+}
+.col-sm
+{
+    
+    border: red solid 0.5px;
+    
+    
+}
+body
+{   
+   
+    background-image: url(5.2%20header.jpg.jpg);/*more than two images can be added as background*/
+    background-color: antiquewhite;
+    background-attachment: fixed;/* specifies backgound to be fixed or scrollable(that scrolls with the page)*/
+    background-repeat: no-repeat;/* can also hold two values for different images*/
+    background-position: center;/* can have values like ,top bottom ,bottom right and so on*/
+    background-size:cover;
+    background-blend-mode: normal;
+    
+  
+    
+}
+#E
+{
+    
+    text-align: center;
+    color: grey;
+    margin-top: 6em;
+    font-family: cursive;
+    font-variant: small-caps;
+    font-size: 2em;
+
+    
+}
+.btn-success
+{
+    border: red solid 2px;
+
+
+
+}
