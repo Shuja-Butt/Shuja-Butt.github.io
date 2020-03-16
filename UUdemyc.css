@@ -4,6 +4,13 @@
     background-color: aqua;
     border : orange solid 1px;
 }
+html
+{
+ height:100%;
+    width:100%;
+    
+
+}
 .col-sm
 {
     
@@ -21,7 +28,7 @@ body
     background-repeat: no-repeat;/* can also hold two values for different images*/
     background-position: center center ;/* can have values like ,top bottom ,bottom right and so on*/
     background-size:cover;
-   
+   height:100%;
 
     
   
@@ -32,7 +39,7 @@ body
 {
     
     text-align: center;
-    color: blue;
+    color: yellow;
     margin-top: 6em;
     font-family: cursive;
     font-variant: small-caps;
