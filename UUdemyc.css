@@ -16,13 +16,13 @@ body
 {   
    
     background-image: url(5.2%20header.jpg.jpg);/*more than two images can be added as background*/
-    background-color: antiquewhite;
-    height:100%;
+    background-color: black;
+ 
     background-attachment: fixed;/* specifies backgound to be fixed or scrollable(that scrolls with the page)*/
     background-repeat: no-repeat;/* can also hold two values for different images*/
     background-position: center center ;/* can have values like ,top bottom ,bottom right and so on*/
-    background-size:100%;
-    
+    background-size:cover;
+       height:100%;
 
     
   
