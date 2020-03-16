@@ -28,7 +28,7 @@ body
     background-repeat: no-repeat;/* can also hold two values for different images*/
     background-position: center center ;/* can have values like ,top bottom ,bottom right and so on*/
     background-size:cover;
-   
+   height:100%;
 
     
   
