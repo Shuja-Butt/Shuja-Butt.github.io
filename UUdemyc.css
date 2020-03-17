@@ -39,11 +39,12 @@ body
 {
     
     text-align: center;
-    color: yellow;
+    color: purple;
     margin-top: 6em;
     font-family: cursive;
     font-variant: small-caps;
     font-size: 2em;
+    position:fixed;
 
     
 }
@@ -52,7 +53,7 @@ body
     
    display:block;
     margin:auto;
-
+position:fixed;
 
 
 }
